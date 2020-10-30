@@ -20,4 +20,4 @@ API in NodeJS to send emails using the Gmail REST API, OAuth2.0
 
 -  send a post request with a JSON body to `localhost:8080/mail` to send the mail
 
--  ![postman example](https://github.com/richard937/mailerAPI/blob/main/success.PNG)
+![postman example](https://github.com/richard937/mailerAPI/blob/main/success.PNG)
